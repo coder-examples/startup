@@ -60,3 +60,6 @@ header.startup h1 {
 a {
   display: inline-block;
 }
+::selection {
+color: dodgerblue;
+}
